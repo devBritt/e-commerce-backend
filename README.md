@@ -3,10 +3,6 @@
 **E-Commerce Backend**
 
 <div align='center'>
-<!-- LICENSE BADGE -->
-<a href='https://github.com/devBritt/e-commerce-backend/blob/main/LICENSE'>
-<img src='https://img.shields.io/github/license/devbritt/e-commerce-backend?color=informational&style=flat-square'>
-</a>
 <!-- DEPENDENCIES BADGES -->
 <img src='https://img.shields.io/github/package-json/dependency-version/devbritt/e-commerce-backend/dotenv?color=informational&label=dotenv&style=flat-square'>
 <img src='https://img.shields.io/github/package-json/dependency-version/devbritt/e-commerce-backend/express?color=informational&label=express&style=flat-square'>
